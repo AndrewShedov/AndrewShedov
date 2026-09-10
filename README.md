@@ -6,6 +6,8 @@
 [VM Inspector](https://github.com/AndrewShedov/vm-inspector)
 
 #### 📦 npm
+[turboMaker](https://github.com/AndrewShedov/turboMaker)<br>
+[superMaker](https://github.com/AndrewShedov/superMaker)<br>
 [mongoCollector](https://github.com/AndrewShedov/mongoCollector)<br>
 [mongoChecker](https://github.com/AndrewShedov/mongoChecker)
 
