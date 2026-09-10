@@ -7,7 +7,7 @@
           <a href="https://github.com/AndrewShedov/animated-heart--svg-css">Animated heart with realistic heartbeat and hover effect</a>
         </li>
         <li>
-          <a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css">Animated Holographic Cards</a>
+          <a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css">Animated holographic cards with gyroscope and accelerometer support, rotating on device movements</a>
         </li>
       </ul> 
     </td>
