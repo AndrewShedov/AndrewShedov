@@ -29,16 +29,16 @@
       </ul>  
     </td>
     <td valign="top" width="33%">
+    <h4>🦀 crates.io</h4>
+      <ul>
+        <li>
+          <a href="https://crates.io/crates/turbo-maker">turbo-maker</a>
+        </li>
+      </ul>
       <h4>⚙️ DevOps</h4>
       <ul>
         <li>
           <a href="https://github.com/AndrewShedov/vm-inspector">VM Inspector</a>
-        </li>
-      </ul> 
-      <h4>🦀 crates.io</h4>
-      <ul>
-        <li>
-          <a href="https://crates.io/crates/turbo-maker">turbo-maker</a>
         </li>
       </ul>
     </td>
