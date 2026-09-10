@@ -6,10 +6,10 @@
 [VM Inspector](https://github.com/AndrewShedov/vm-inspector)
 
 #### 📦 npm
-[turboMaker](https://github.com/AndrewShedov/turboMaker)<br>
-[superMaker](https://github.com/AndrewShedov/superMaker)<br>
-[mongoCollector](https://github.com/AndrewShedov/mongoCollector)<br>
-[mongoChecker](https://github.com/AndrewShedov/mongoChecker)
+[turboMaker](https://www.npmjs.com/package/turbo-maker)<br>
+[superMaker](https://www.npmjs.com/package/superMaker)<br>
+[mongoCollector](https://www.npmjs.com/package/mongoCollector)<br>
+[mongoChecker](https://www.npmjs.com/package/mongoChecker)
 
 #### 🦀 crates.io
-[turbo-maker](https://github.com/AndrewShedov/turbo-maker)
+[turbo-maker](https://crates.io/crates/turbo-maker)
