@@ -24,13 +24,13 @@
 <a href="https://www.npmjs.com/package/turbo-maker">turboMaker</a>
 </li>
 <li>
-<a href="https://www.npmjs.com/package/superMaker">superMaker</a>
+<a href="https://www.npmjs.com/package/super-maker">superMaker</a>
 </li>
 <li>
-<a href="https://www.npmjs.com/package/mongoCollector">mongoCollector</a>
+<a href="https://www.npmjs.com/package/mongo-collector">mongoCollector</a>
 </li>
 <li>
-<a href="https://www.npmjs.com/package/mongoChecker">mongoChecker</a>
+<a href="https://www.npmjs.com/package/mongo-checker">mongoChecker</a>
 </li>
 </ul>  
       <h4>🦀 crates.io</h4>
