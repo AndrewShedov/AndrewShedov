@@ -42,9 +42,9 @@
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
-<h4 style="margin-bottom: 0;">✨ Animation</h4>
+<h4 style="margin-bottom: 0;">🧚‍♀️ Animation</h4>
 <ul style="margin-top: 0;">
-<li style="margin-bottom: 10px;">
+<li style="margin-bottom: 0;">
 <a href="https://github.com/AndrewShedov/animated-heart--svg-css">Animated heart with realistic heartbeat (SVG, CSS)</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-heart--svg-css"><img src="https://img.shields.io/github/stars/AndrewShedov/animated-heart--svg-css?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
 </li>
 <li>
