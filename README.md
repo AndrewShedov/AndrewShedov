@@ -29,7 +29,7 @@
 </ul>
 </td>
 <td valign="top" width="33%">
-<h4 style="margin-bottom: 0;">📝 WordPress</h4>
+<h4 style="margin-bottom: 0;">🌐 WordPress</h4>
 <ul style="margin-top: 0;">
 <li>
 <a href="https://github.com/AndrewShedov/shedov.top--custom-theme--wordpress">Custom Theme for the shedov.top website</a> &nbsp;<a href="https://github.com/AndrewShedov/shedov.top--custom-theme--wordpress"><img src="https://img.shields.io/github/stars/AndrewShedov/shedov.top--custom-theme--wordpress?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
