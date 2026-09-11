@@ -15,7 +15,7 @@
 </ul>
 </td>
 <td valign="top" width="34%">
-<h4 style="margin-bottom: 0;">🍬 SAHAR</h4>
+<h4 style="margin-bottom: 0;">🦀🍬 SAHAR</h4>
 <ul style="margin-top: 0; margin-bottom: 20px;">
 <li>
 <a href="https://github.com/AndrewShedov/enter-text--SAHAR">Enter Text (SAHAR)</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"><img src="https://img.shields.io/github/stars/AndrewShedov/enter-text--SAHAR?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
