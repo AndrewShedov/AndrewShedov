@@ -45,10 +45,10 @@
 <h4 style="margin-bottom: 0;">✨ Animation</h4>
 <ul style="margin-top: 0;">
 <li style="margin-bottom: 10px;">
-<a href="https://github.com/AndrewShedov/animated-heart--svg-css">Animated heart with realistic heartbeat</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-heart--svg-css"><img src="https://img.shields.io/github/stars/AndrewShedov/animated-heart--svg-css?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
+<a href="https://github.com/AndrewShedov/animated-heart--svg-css">Animated heart with realistic heartbeat (SVG, CSS)</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-heart--svg-css"><img src="https://img.shields.io/github/stars/AndrewShedov/animated-heart--svg-css?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
 </li>
 <li>
-<a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css">Animated holographic cards with gyroscope</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css"><img src="https://img.shields.io/github/stars/AndrewShedov/animated-holographic-cards--js-css?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
+<a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css">Animated holographic cards rotating on device movement (JS, CSS)</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css"><img src="https://img.shields.io/github/stars/AndrewShedov/animated-holographic-cards--js-css?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
 </li>
 </ul> 
 </td>
