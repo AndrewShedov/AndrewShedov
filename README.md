@@ -88,12 +88,7 @@
 
 <br>
 
-[![SHEDOV.TOP](https://img.shields.io/badge/SHEDOV.TOP-black?style=for-the-badge)](https://shedov.top/) 
-[![CRYSTAL](https://img.shields.io/badge/CRYSTAL-black?style=for-the-badge)](https://crystal.you/AndrewShedov)
-[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&color=black&logoColor=white)](https://discord.gg/ENB7RbxVZE)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&color=black&logoColor=white)](https://t.me/ShedovTop)
-[![X](https://img.shields.io/badge/%20-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AndrewShedov)
-[![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen)](https://codepen.io/AndrewShedov)
-[![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AndrewShedov)
-[![VK](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=vk)](https://vk.com/ShedovTop)
-[![VK Video](https://img.shields.io/badge/VK%20Video-black?style=for-the-badge&logo=vk)](https://vkvideo.ru/@ShedovTop)
+<div align="center">
+  <a href="https://shedov.top/"><img src="https://img.shields.io/badge/SHEDOV.TOP-121212?style=flat-square&logoColor=white" alt="SHEDOV.TOP"></a> <a href="https://crystal.you/AndrewShedov"><img src="https://img.shields.io/badge/CRYSTAL-0077FF?style=flat-square&logoColor=white" alt="CRYSTAL"></a> <a href="https://discord.gg/ENB7RbxVZE"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://t.me/ShedovTop"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://x.com/AndrewShedov"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://codepen.io/AndrewShedov"><img src="https://img.shields.io/badge/CodePen-121212?style=flat-square&logo=codepen&logoColor=white" alt="CodePen"></a> <a href="https://www.youtube.com/@AndrewShedov"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> 
+  <a href="https://vk.com/ShedovTop"><img src="https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white" alt="VK"></a> <a href="https://vkvideo.ru/@ShedovTop"><img src="https://img.shields.io/badge/VK_Video-0077FF?style=flat-square&logo=vk&logoColor=white" alt="VK Video"></a>
+</div>
