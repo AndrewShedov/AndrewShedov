@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
-<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/react/61DAFB" height="18" valign="middle">&nbsp;MERN</h4>
+<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/javascript" height="18" valign="middle">&nbsp;MERN</h4>
 <ul style="margin-top: 0;">
 <li style="margin-bottom: 0">
 <a href="https://github.com/CrystalSystems/crystal-v1.0">CRYSTAL v1.0</a> &nbsp;<a href="https://github.com/CrystalSystems/crystal-v1.0"><img src="https://img.shields.io/github/stars/CrystalSystems/crystal-v1.0?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
