@@ -91,7 +91,7 @@
 <div align="center">
   <a href="https://shedov.top/"><img src="https://img.shields.io/badge/SHEDOV.TOP-black?style=flat&logoColor=white" alt="SHEDOV.TOP"></a> 
   <a href="https://crystal.you/AndrewShedov"><img src="https://img.shields.io/badge/CRYSTAL-black?style=flat&logoColor=white" alt="CRYSTAL"></a> 
-  <a href="https://discord.gg/ENB7RbxVZE"><img src="https://img.shields.io/badge/dynamic/json?style=flat&label=%20&logo=discord&logoColor=white&labelColor=black&color=%23f3f3f3&query=$.approximate_member_count&url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FENB7RbxVZE%3Fwith_counts%3Dtrue" alt="Discord"></a> 
+  <a href="https://discord.gg/ENB7RbxVZE"><img src="https://img.shields.io/badge/dynamic/json?style=flat&label=%20&logo=discord&logoColor=white&labelColor=black&color=black&query=$.approximate_member_count&url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FENB7RbxVZE%3Fwith_counts%3Dtrue" alt="Discord"></a>
   <a href="https://t.me/ShedovTop"><img src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a> 
   <a href="https://x.com/AndrewShedov"><img src="https://img.shields.io/badge/-black?style=flat&logo=x&logoColor=white" alt="X"></a> 
   <a href="https://codepen.io/AndrewShedov"><img src="https://img.shields.io/badge/CodePen-black?style=flat&logo=codepen&logoColor=white" alt="CodePen"></a> 
