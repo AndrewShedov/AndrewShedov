@@ -3,14 +3,14 @@
 <td valign="top" width="33%">
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/javascript" height="18" valign="middle">&nbsp;MERN</h4>
 <ul style="margin-top: 0;">
-<li style="margin-bottom: 0">
-<a href="https://github.com/CrystalSystems/crystal-v1.0">CRYSTAL v1.0</a>
+<li>
+<a href="https://github.com/CrystalSystems/crystal-v2.0">CRYSTAL v2.0</a> 
 </li>
 <li style="margin-bottom: 0">
 <a href="https://github.com/CrystalSystems/crystal-v1.0--production">CRYSTAL v1.0 (Production)</a>
-</li>
-<li>
-<a href="https://github.com/CrystalSystems/crystal-v2.0">CRYSTAL v2.0</a> 
+</li>  
+<li style="margin-bottom: 0">
+<a href="https://github.com/CrystalSystems/crystal-v1.0">CRYSTAL v1.0</a>
 </li>
 </ul>
 </td>
