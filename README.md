@@ -1,5 +1,16 @@
 <table width="100%">
 <tr>
+<td valign="top" width="34%">
+<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">🍬&nbsp;SAHAR</h4>
+<ul style="margin-top: 0; margin-bottom: 20px;">
+<li>
+<a href="https://github.com/AndrewShedov/add-post--SAHAR">🍬 Add Post</a> &nbsp;<a href="https://github.com/AndrewShedov/add-post--SAHAR"></a>
+</li>  
+<li>
+<a href="https://github.com/AndrewShedov/enter-text--SAHAR">🍬 Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"></a>
+</li>
+</ul>
+</td>
 <td valign="top" width="33%">
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/javascript" height="18" valign="middle">&nbsp;MERN</h4>
 <ul style="margin-top: 0;">
@@ -11,17 +22,6 @@
 </li>  
 <li style="margin-bottom: 0">
 <a href="https://github.com/CrystalSystems/crystal-v1.0">CRYSTAL v1.0</a>
-</li>
-</ul>
-</td>
-<td valign="top" width="34%">
-<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">🍬&nbsp;SAHAR</h4>
-<ul style="margin-top: 0; margin-bottom: 20px;">
-<li>
-<a href="https://github.com/AndrewShedov/add-post--SAHAR">🍬 Add Post</a> &nbsp;<a href="https://github.com/AndrewShedov/add-post--SAHAR"></a>
-</li>  
-<li>
-<a href="https://github.com/AndrewShedov/enter-text--SAHAR">🍬 Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"></a>
 </li>
 </ul>
 </td>
@@ -39,15 +39,18 @@
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
-<h4 style="margin-bottom: 0;">🧚‍♀️ Animation</h4>
-<ul style="margin-top: 0;">
-<li style="margin-bottom: 0;">
-<a href="https://github.com/AndrewShedov/animated-heart--svg-css">Animated heart with realistic heartbeat (SVG, CSS)</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-heart--svg-css"></a>
-</li>
+<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">&nbsp;crates.io</h4>
+<ul style="margin-top: 0; margin-bottom: 20px;">
 <li>
-<a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css">Animated holographic cards rotating on device movement (JS, CSS)</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css"></a>
+<a href="https://github.com/AndrewShedov/turbo-maker">turbo-maker</a> &nbsp;<a href="https://github.com/AndrewShedov/turbo-maker"></a>
 </li>
-</ul> 
+</ul>
+<h4 style="margin-bottom: 0;">⚙️ DevOps</h4>
+<ul style="margin-top: 0;">
+<li>
+<a href="https://github.com/AndrewShedov/vm-inspector">VM Inspector</a> &nbsp;<a href="https://github.com/AndrewShedov/vm-inspector"></a>
+</li>
+</ul>
 </td>
 <td valign="top" width="34%">
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/npm/CB3837" height="18" valign="middle">&nbsp;npm</h4>
@@ -67,18 +70,15 @@
 </ul>  
 </td>
 <td valign="top" width="33%">
-<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">&nbsp;crates.io</h4>
-<ul style="margin-top: 0; margin-bottom: 20px;">
-<li>
-<a href="https://github.com/AndrewShedov/turbo-maker">turbo-maker</a> &nbsp;<a href="https://github.com/AndrewShedov/turbo-maker"></a>
-</li>
-</ul>
-<h4 style="margin-bottom: 0;">⚙️ DevOps</h4>
+<h4 style="margin-bottom: 0;">🧚‍♀️ Animation</h4>
 <ul style="margin-top: 0;">
-<li>
-<a href="https://github.com/AndrewShedov/vm-inspector">VM Inspector</a> &nbsp;<a href="https://github.com/AndrewShedov/vm-inspector"></a>
+<li style="margin-bottom: 0;">
+<a href="https://github.com/AndrewShedov/animated-heart--svg-css">Animated heart with realistic heartbeat (SVG, CSS)</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-heart--svg-css"></a>
 </li>
-</ul>
+<li>
+<a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css">Animated holographic cards rotating on device movement (JS, CSS)</a> &nbsp;<a href="https://github.com/AndrewShedov/animated-holographic-cards--js-css"></a>
+</li>
+</ul> 
 </td>
 </tr>
 </table>
