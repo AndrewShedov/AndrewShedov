@@ -24,12 +24,6 @@
 <a href="https://github.com/AndrewShedov/enter-text--SAHAR">🍬 Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"></a>
 </li>
 </ul>
-<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">&nbsp;LARS</h4>
-<ul style="margin-top: 0;">
-<li>
-<a href="https://github.com/AndrewShedov/enter-text--LARS">Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--LARS"></a>
-</li>
-</ul>
 </td>
 <td valign="top" width="33%">
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/wordpress/21759B" height="18" valign="middle">&nbsp;WordPress</h4>
