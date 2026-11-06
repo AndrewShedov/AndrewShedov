@@ -17,7 +17,10 @@
 <li>
 <a href="https://github.com/CrystalSystems/crystal-v2.0">CRYSTAL v2.0</a> 
 </li>
-  <li style="margin-bottom: 0">
+<li style="margin-bottom: 0">
+<a href="https://github.com/CrystalSystems/crystal-v1.0--production">CRYSTAL v1.0 (Production)</a>
+</li>  
+<li style="margin-bottom: 0">
 <a href="https://github.com/CrystalSystems/crystal-v1.0">CRYSTAL v1.0</a>
 </li>
 </ul>
