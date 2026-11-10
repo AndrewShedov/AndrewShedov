@@ -4,7 +4,7 @@
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">🍬&nbsp;SAHAR</h4>
 <ul style="margin-top: 0; margin-bottom: 20px;">
 <li>
-<a href="https://github.com/AndrewShedov/add-post--SAHAR">Add Post</a> &nbsp;<a href="https://github.com/AndrewShedov/add-post--SAHAR"></a>
+<a href="https://github.com/AndrewShedov/add-post--SAHAR">Add Post</a>&nbsp;<a href="https://github.com/AndrewShedov/add-post--SAHAR"></a>⭐
 </li>  
 <li>
 <a href="https://github.com/AndrewShedov/enter-text--SAHAR">Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"></a>
@@ -15,7 +15,7 @@
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/javascript" height="18" valign="middle">&nbsp;MERN</h4>
 <ul style="margin-top: 0;">
 <li>💎
-<a href="https://github.com/CrystalSystems/crystal-v2.0">CRYSTAL v2.0</a> 
+<a href="https://github.com/CrystalSystems/crystal-v2.0">CRYSTAL v2.0</a> ⭐ 
 </li>
 <li style="margin-bottom: 0">💎
 <a href="https://github.com/CrystalSystems/crystal-v1.0--production">CRYSTAL v1.0 (Production)</a>
@@ -29,7 +29,7 @@
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/wordpress/21759B" height="18" valign="middle">&nbsp;WordPress</h4>
 <ul style="margin-top: 0;">
 <li>
-<a href="https://github.com/AndrewShedov/shedov.top--custom-theme--wordpress">Custom Theme for the shedov.top website</a> &nbsp;<a href="https://github.com/AndrewShedov/shedov.top--custom-theme--wordpress"></a>
+<a href="https://github.com/AndrewShedov/shedov.top--custom-theme--wordpress">Custom Theme for the shedov.top website</a>&nbsp;<a href="https://github.com/AndrewShedov/shedov.top--custom-theme--wordpress"></a>⭐
 </li>
 </ul>
 </td>
@@ -42,7 +42,7 @@
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">&nbsp;crates.io</h4>
 <ul style="margin-top: 0; margin-bottom: 20px;">
 <li>
-<a href="https://github.com/AndrewShedov/turbo-maker">turbo-maker</a> &nbsp;<a href="https://github.com/AndrewShedov/turbo-maker"></a>
+<a href="https://github.com/AndrewShedov/turbo-maker">turbo-maker</a>&nbsp;<a href="https://github.com/AndrewShedov/turbo-maker"></a>⭐
 </li>
 </ul>
 <h4 style="margin-bottom: 0;">⚙️ DevOps</h4>
@@ -56,7 +56,7 @@
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/npm/CB3837" height="18" valign="middle">&nbsp;npm</h4>
 <ul style="margin-top: 0;">
 <li style="margin-bottom: 8px;">
-<a href="https://github.com/AndrewShedov/turboMaker">turboMaker</a> &nbsp;<a href="https://github.com/AndrewShedov/turboMaker"></a>
+<a href="https://github.com/AndrewShedov/turboMaker">turboMaker</a>&nbsp;<a href="https://github.com/AndrewShedov/turboMaker"></a>⭐
 </li>
 <li style="margin-bottom: 8px;">
 <a href="https://github.com/AndrewShedov/superMaker">superMaker</a> &nbsp;<a href="https://github.com/AndrewShedov/superMaker"></a>
